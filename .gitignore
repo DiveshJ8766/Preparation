@@ -1,0 +1,22 @@
+# DSA Code .gitignore
+
+# macOS
+.DS_Store
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
