@@ -27,3 +27,5 @@ let num = 12321;
 console.log(checkPalindrome(num));
 
 // https://leetcode.com/problems/palindrome-number/submissions/1987777342/
+
+// Swaping technique in javascript search this and do things
